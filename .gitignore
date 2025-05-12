@@ -1,0 +1,15 @@
+# Ignore node_modules in both root and subdirectories
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Ignore ngrok files
+ngrok*
+
+# Ignore dummy_data files (e.g., dummy_data(http).py, dummy_data(websocket).py)
+dummy_data*
+
+# Ignore .pem files (e.g., localhost-2-key.pem)
+*.pem
+
+.env
