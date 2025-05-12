@@ -107,8 +107,8 @@ const Welcome = () => {
           id='intro-slider'
           className='slider montserrat-front'>
           <h1 className=' intro-txt' id='title-1'>Smart</h1>
-          <h1 className='' id='title-2'>Home</h1>
-          <h1 className='' id='title-3'>Automation</h1>
+          <h1 className='' id='title-2'>Farm</h1>
+          <h1 className='' id='title-3'>Monitoring</h1>
         </div> 
         {/* centered-section  */}
       <div className=' body'>

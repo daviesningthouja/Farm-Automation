@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className='nav-head'>
         <Link to ="/">
         <h1 className='head-txt'>
-            Home Automation
+            Farm Monitoring
         </h1>
         </Link>
       </div>
